@@ -33,5 +33,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="ficheiro1.txt" />
+    <Text Include="texte.txt" />
   </ItemGroup>
 </Project>
