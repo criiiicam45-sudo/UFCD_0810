@@ -21,5 +21,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Ficheiro_tp3.txt" />
+    <Text Include="teste_Cristiane.txt" />
   </ItemGroup>
 </Project>
